@@ -10,7 +10,7 @@ public class Ex03 {
         x = new Triangle();
         y = new Triangle();
 
-        double xA, xB, xC, yA, yB, yC;
+        
         System.out.println("Enter the measures of triangle X: ");
         x.a = sc.nextDouble();
         x.b = sc.nextDouble();
